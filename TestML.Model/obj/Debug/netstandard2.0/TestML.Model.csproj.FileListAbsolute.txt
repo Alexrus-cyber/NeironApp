@@ -1,0 +1,11 @@
+C:\Users\tappy\source\repos\Test\TestML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\tappy\source\repos\Test\TestML.Model\bin\Debug\netstandard2.0\TestML.Model.deps.json
+C:\Users\tappy\source\repos\Test\TestML.Model\bin\Debug\netstandard2.0\TestML.Model.dll
+C:\Users\tappy\source\repos\Test\TestML.Model\bin\Debug\netstandard2.0\TestML.Model.pdb
+C:\Users\tappy\source\repos\Test\TestML.Model\obj\Debug\netstandard2.0\TestML.Model.csproj.AssemblyReference.cache
+C:\Users\tappy\source\repos\Test\TestML.Model\obj\Debug\netstandard2.0\TestML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tappy\source\repos\Test\TestML.Model\obj\Debug\netstandard2.0\TestML.Model.AssemblyInfoInputs.cache
+C:\Users\tappy\source\repos\Test\TestML.Model\obj\Debug\netstandard2.0\TestML.Model.AssemblyInfo.cs
+C:\Users\tappy\source\repos\Test\TestML.Model\obj\Debug\netstandard2.0\TestML.Model.csproj.CoreCompileInputs.cache
+C:\Users\tappy\source\repos\Test\TestML.Model\obj\Debug\netstandard2.0\TestML.Model.dll
+C:\Users\tappy\source\repos\Test\TestML.Model\obj\Debug\netstandard2.0\TestML.Model.pdb
