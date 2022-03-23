@@ -1,0 +1,14 @@
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.exe
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.deps.json
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.runtimeconfig.json
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.runtimeconfig.dev.json
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.dll
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\bin\Debug\netcoreapp3.1\ConsoleAp.pdb
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.dll
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.pdb
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleAp\obj\Debug\netcoreapp3.1\ConsoleAp.genruntimeconfig.cache

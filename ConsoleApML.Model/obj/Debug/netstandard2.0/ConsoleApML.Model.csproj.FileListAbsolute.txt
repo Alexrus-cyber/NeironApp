@@ -1,0 +1,11 @@
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\bin\Debug\netstandard2.0\ConsoleApML.Model.deps.json
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\bin\Debug\netstandard2.0\ConsoleApML.Model.dll
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\bin\Debug\netstandard2.0\ConsoleApML.Model.pdb
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\obj\Debug\netstandard2.0\ConsoleApML.Model.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\obj\Debug\netstandard2.0\ConsoleApML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\obj\Debug\netstandard2.0\ConsoleApML.Model.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\obj\Debug\netstandard2.0\ConsoleApML.Model.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\obj\Debug\netstandard2.0\ConsoleApML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\obj\Debug\netstandard2.0\ConsoleApML.Model.dll
+C:\Users\Алексей\source\repos\ConsoleAp\ConsoleApML.Model\obj\Debug\netstandard2.0\ConsoleApML.Model.pdb
